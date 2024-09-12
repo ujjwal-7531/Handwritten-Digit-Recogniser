@@ -10,5 +10,5 @@ The model uses knn-classifier to classify digits(0-9)<br><br>
 2. main2:<br>
    i) I have used k as 3, as model was more accurate for k=3.<br>
    ii) Accuracy is around 96.9%
-   iii) Furthermore, I applied PCA, but it negatively affected the accuracy.
+   iii) Furthermore, I applied PCA, but it negatively affected the accuracy.<br>
 Thankyou (^_^)
